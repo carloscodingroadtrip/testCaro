@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+  }
+  .wrapper {
+    width: 100%;
+    background-color: #ffffff;
+    position: fixed;
+    border-bottom: 10px solid teal;
+  }
+  
+  .container {
+    width: 960px;
+    margin: 0 auto;
+  }
+  
+  #logo h1 {
+    float: left;
+    background-color: yellow;
+    height: 100px;
+  }
+  
+  header {
+    height: 100px;
+    float: left;
+  }
+  
+  nav {
+    height: 100px;
+    float: right;
+    color: white;
+    background-color: #1a1a1a;
+  }
+  
+  nav ul > li {
+    float: right;
+    list-style: none;
+    display: inline;
+    padding: 40px 15px;
+  }
+  
+  
+  
+  
